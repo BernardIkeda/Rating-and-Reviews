@@ -1,0 +1,132 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color: #F0F0F0;
+}
+
+.Main-container{
+    width: 80%;
+    height: 90vh;
+    margin-left: 9%;
+    margin-top: 2%;
+    border: solid #FDFDFD;
+    background-color: #FDFDFD;
+    font-family: 'Poppins';
+    box-shadow: black 1px 1px 10px 1px;
+}
+
+#hero{
+    margin-left: 10%;
+    margin-top: 5%;
+    font-size: x-large;
+    font-weight: bolder;
+    color: #511D53;
+}
+
+#sub-hero{
+    margin-left: 10%;
+    margin-top: 1.5%;
+    font-size: x-small;
+    color: #511D53;
+}
+
+#rating-1{
+    display: flex;
+    width: 20%;
+    padding: 1%;
+    margin-left: 50%;
+    margin-top: -14%;
+    font-size: 70%;
+    border-radius: 6px;
+    background-color: #F7F2F8;
+}
+
+#stars{
+    margin-left: 40%;
+}
+
+#text-on-left{
+    font-size: xx-small;
+    margin-left: 8%;
+    margin-top: 1%;
+    font-weight: bold;
+}
+
+#rating-2{
+    display: flex;
+    width: 22%;
+    padding: 1%;
+    margin-left: 53%;
+    margin-top: 1%;
+    font-size: 70%;
+    border-radius: 6px;
+    background-color: #F7F2F8;
+}
+
+#rating-3{
+    display: flex;
+    width: 21%;
+    padding: 1%;
+    margin-left: 56%;
+    margin-top: 1%;
+    font-size: 70%;
+    border-radius: 6px;
+    background-color: #F7F2F8;
+}
+
+#review-container-1{
+    width: 25%;
+    height: 32vh;
+    margin-top: 4%;
+    margin-left: 10%;
+    border-radius: 10px;
+    color: #ffff;
+    background-color: #511F50;
+}
+#customer{
+    width: 12%;
+    border-radius: 100px;
+    margin-left: 15%;
+    margin-top: 7%;
+}
+
+#name{
+    font-size: smaller;
+    font-weight: bold;
+    margin-left: 36%;
+    margin-top: -14%;
+}
+#status{
+    font-size: smaller;
+    color: #B15D95;
+    margin-left: 36%;
+}
+#review{
+    font-size: 70%;
+    text-align: center;
+    margin-top: 10%;
+
+}
+
+#review-container-2{
+    width: 25%;
+    height: 32vh;
+    margin-top: -17%;
+    margin-left: 36%;
+    border-radius: 10px;
+    color: #ffff;
+    background-color: #511F50;
+}
+
+#review-container-3{
+    width: 25%;
+    height: 32vh;
+    margin-top: -17%;
+    margin-left: 62%;
+    border-radius: 10px;
+    color: #ffff;
+    background-color: #511F50;
+}
